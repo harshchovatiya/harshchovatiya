@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Harsh Chovatiya
 ============================================================================================================================
 
-WordPress Developer
+Full Stack developer
 -------------------
 
 Obtaining To grab an opportunity and set myself a goal where I can be innovative and attain a challenging position by exercising my interpersonal and professional skills for the growth of the organization.
