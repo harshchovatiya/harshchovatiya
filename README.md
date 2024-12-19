@@ -18,5 +18,7 @@ A highly motivated and results-oriented full-stack developer with a passion for 
 
 
 Frontend: HTML, CSS, JavaScript (ES6+), React, 
+
 Backend: Node.js,
+
 Databases: SQL (MySQL), NoSQL (MongoDB).
