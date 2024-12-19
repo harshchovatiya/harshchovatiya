@@ -7,8 +7,7 @@ Full Stack developer
 Obtaining To grab an opportunity and set myself a goal where I can be innovative and attain a challenging position by exercising my interpersonal and professional skills for the growth of the organization.
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [Here](http://anshgalani03.github.io/Personal-Portfolio/)
-*   ✉️  You can contact me at [anshgalani@yahoo.com](mailto:anshgalani@yahoo.com)
+*   ✉️  You can contact me at [harshchovatiya16@gmail.com](mailto:harshchovatiya16@gmail.com)
 *   🧠  I'm learning WordPress and Laravel
 *   ⚡  I also have good knowledge of front end Development
 <p align="left">
