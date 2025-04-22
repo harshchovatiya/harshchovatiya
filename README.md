@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Harsh Chovatiya
 ============================================================================================================================
 
-Full Stack Developer
+React js Developer
 -------------------
 
 A highly motivated and results-oriented full-stack developer with a passion for building innovative and user-friendly web applications. Proven ability to design, develop, and 1  deploy robust and scalable solutions across the entire software development lifecycle, from front-end user interfaces to back-end systems and databases.
